@@ -126,7 +126,7 @@ Git
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cultural-relations-system.git
+git clone https://github.com/manzalji-abed/Cultural-Relations-Directorate-Automation.git
 cd cultural-relations-system
 ```
 
@@ -464,4 +464,5 @@ Contributions are welcome! Please follow these steps:
 - Add comments for complex logic
 - Write docstrings for functions and classes
 - Test thoroughly before submitting PR
+
 
